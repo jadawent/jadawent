@@ -2,7 +2,7 @@
 
   💻Computer Science major studying at Metropolitian State University
   🤓Sharing my progess as I become a Software Developer
-  🍎Currently taking Object-Oriented Deisgn and Implementation,
+      🍎Currently taking Object-Oriented Deisgn and Implementation,
     Database Management Systems, and Algorithms and Data Strutures
 
 <!--

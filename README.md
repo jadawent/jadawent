@@ -2,8 +2,9 @@
 
   💻Computer Science major studying at Metropolitian State University
   🤓Sharing my progess as I become a Software Developer
-      🍎Currently taking Object-Oriented Deisgn and Implementation,
-    Database Management Systems, and Algorithms and Data Strutures
+      🍎Currently taking Computer Security
+      ✏️Teaching myself React
+      
 
 <!--
 **jadawent/jadawent** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

@@ -2,8 +2,7 @@
 
   💻Computer Science major studying at Metropolitian State University
   🤓Sharing my progess as I become a Software Developer
-      🍎Currently taking Computer Security
-      ✏️Teaching myself React
+      🍎Currently taking Networks & Security, Operating Systems, and my capstone! ✏️
       
 
 <!--

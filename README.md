@@ -1,8 +1,8 @@
 ### Hi there, Im Jada! 😄
 
-  💻Computer Science major studying at Metropolitian State University
+  💻Recent graduate with a BS in CS
   🤓Sharing my progess as I become a Software Developer
-      🍎Currently taking Networks & Security, Operating Systems, and my capstone! ✏️
+  
       
 
 <!--
